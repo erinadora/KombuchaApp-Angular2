@@ -1,0 +1,25 @@
+
+.selected {
+  color: #22bdf0;
+}
+
+.bucha-form {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.mybutton {
+  border: 1px solid #454545;
+  padding: 15px;
+  margin: auto;
+}
+
+bucha-list {
+  width: 1000px;
+  height: 1000px;
+}
+
+.filter {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
